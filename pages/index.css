@@ -1,6 +1,0 @@
-.grid {
-    display: grid;
-    grid-template-columns: 20px repeat(6, 1fr) 20px;
-    background-color: palevioletred;
-    border: 2px #ffffff;
-}
